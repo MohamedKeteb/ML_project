@@ -1,1 +1,1 @@
-## Sonar vs rock prediction project
+## Sonar mine vs rock prediction project
